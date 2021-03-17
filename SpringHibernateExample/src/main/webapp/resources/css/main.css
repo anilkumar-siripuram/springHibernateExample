@@ -1,0 +1,38 @@
+
+h1{
+	color:red;
+}
+
+h2{
+	color:blue;
+}
+
+div {
+  border: 1px solid black;
+  background-color: red;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+tr:first-child {
+	font-weight: bold;
+	background-color: #C6C9C4;
+}
+
+
+th, td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+h3 {
+	background-color: #C6C9C4;
+}
+
+
